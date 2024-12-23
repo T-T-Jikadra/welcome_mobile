@@ -3,6 +3,7 @@ import 'package:welcome_mob/common/eqWidget/eqSplash.dart';
 
 void main() {
   runApp(const MyApp());
+  //TT
 }
 
 class MyApp extends StatelessWidget {
